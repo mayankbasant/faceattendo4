@@ -5,3 +5,5 @@ FaceAttendo
 
 imgaes- ![final1](https://github.com/mayankbasant/faceattendo4/assets/71563979/c82f6d30-12c2-456e-b9a1-ab7bb1baa524)
 
+video link of project - https://youtu.be/EvKwtOorx9I
+
